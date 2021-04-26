@@ -5,6 +5,7 @@ const PageNotFound = () => {
         <div className='space'>
             <h1> Page not found</h1>
         </div>
+        <div></div>
     );
 }
 
